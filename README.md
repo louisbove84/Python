@@ -1,4 +1,4 @@
 # GitHub
-Udacity Repository
+Machine Learning Course
 
-This repository holds all the Python files created for Udacity Courses
+This repository holds all the Python files created for Udacity Machine Learning Course
